@@ -1,8 +1,5 @@
 # FullStackHero .NET 10 Starter Kit
 
-TEST UPSTREAM!
-
-AGAIN!
 [![NuGet](https://img.shields.io/nuget/v/FullStackHero.CLI?label=fsh%20cli)](https://www.nuget.org/packages/FullStackHero.CLI)
 [![NuGet](https://img.shields.io/nuget/v/FullStackHero.Framework.Web?label=framework)](https://www.nuget.org/packages/FullStackHero.Framework.Web)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
