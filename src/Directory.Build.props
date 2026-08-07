@@ -23,8 +23,6 @@
 		<!-- Container tags (if using container builds) -->
 		<ContainerImageTags>10.0.0-rc;latest</ContainerImageTags>
 
-		<!-- Prevent MSBuild from excluding common folders (optional) -->
-		<NoDefaultExcludes>true</NoDefaultExcludes>
 	</PropertyGroup>
 
 	<ItemGroup>
